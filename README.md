@@ -13,13 +13,13 @@ NetMedia merupakan sebuah aplikasi yang di dalamnya berisi modul-modul pembelaja
 - Tampilan Profil Pengguna
 
 # Anggota Kelompok 3
-1. Rintan Filosofi              2213025048
-2. Khoirunnisaa’Stiani			    2213025012
-3. Suryana Tio Fanta Purba	    2213025058
-4. Fransiska Heni Vita Ardita		2213025016
-5. Munfiatun Nairoh			        2213025014
-6. Jenita Alexandra Kabes		    2213025062
-7. M. Akbar Al-Rasyid   			  2213025060
-8. I Gede Yogi Vrindavan   		  2213025028
-9. Ghefira Primary Orchida		  2213025042
+1. Rintan Filosofi              _(2213025048)_
+2. Khoirunnisaa’Stiani			    _(2213025012)_
+3. Suryana Tio Fanta Purba	    _(2213025058)_
+4. Fransiska Heni Vita Ardita		_(2213025016)_
+5. Munfiatun Nairoh			        _(2213025014)_
+6. Jenita Alexandra Kabes		    _(2213025062)_
+7. M. Akbar Al-Rasyid   			  _(2213025060)_
+8. I Gede Yogi Vrindavan   		  _(2213025028)_
+9. Ghefira Primary Orchida		  _(2213025042)_
 
