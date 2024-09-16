@@ -5,16 +5,24 @@ NetMedia merupakan sebuah aplikasi yang di dalamnya berisi modul-modul pembelaja
 ## Fitur
 
 ### UI
-- Tampilan Awal Aplikasi
+- 
   ![image](https://github.com/user-attachments/assets/8f0e7ab2-d2ab-4856-87d9-97cd0eac2813)
   
-- Tampilan Masuk Aplikasi
+- 
   ![image](https://github.com/user-attachments/assets/9c39d557-88d3-4ad3-83cf-4a71140a25f4)
 
-- Tampilan Daftar
-- Tampilan Beranda Aplikasi
-- Tampilan Isi Sub-Materi
-- Tampilan Profil Pengguna
+- 
+  ![image](https://github.com/user-attachments/assets/cd80bd64-9333-41b2-9886-5e0549dee5d1)
+
+- 
+  ![image](https://github.com/user-attachments/assets/5725f69e-1fee-4b1c-8916-450aa4317dc7)
+
+- 
+  ![image](https://github.com/user-attachments/assets/e44b94d4-4f9f-4b16-a7d8-a254f1733ece)
+
+- 
+  ![image](https://github.com/user-attachments/assets/0b347ea8-5c11-4f9b-a68b-c6e545aa1a32)
+
 
 # Anggota Kelompok 3
 1. Rintan Filosofi              _(2213025048)_
