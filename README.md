@@ -6,6 +6,7 @@ NetMedia merupakan sebuah aplikasi yang di dalamnya berisi modul-modul pembelaja
 
 ### UI
 - Tampilan Awal Aplikasi
+  ![image](https://github.com/user-attachments/assets/8f0e7ab2-d2ab-4856-87d9-97cd0eac2813)
 - Tampilan Masuk Aplikasi
 - Tampilan Daftar
 - Tampilan Beranda Aplikasi
